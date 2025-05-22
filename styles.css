@@ -10,7 +10,7 @@
 body {
   margin: 0;
   font-family: 'Montserrat', Arial, sans-serif;
-  background-image: url(fondo-raices);
+  background-image: url('fondo-raices.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
