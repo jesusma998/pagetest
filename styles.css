@@ -10,7 +10,11 @@
 body {
   margin: 0;
   font-family: 'Montserrat', Arial, sans-serif;
-  background: var(--main-bg);
+  background-image: url('img1');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
   color: var(--text-light);
 }
 
