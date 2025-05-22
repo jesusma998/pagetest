@@ -69,6 +69,18 @@ body {
   color: var(--text-dark);
   font-weight: 500;
 }
+.hero h4 {
+  font-size: 2.5rem;
+  margin-bottom: 0.4rem;
+  color: var(--accent);
+  font-weight: bold;
+}
+.hero h5 {
+  font-size: 1.4rem;
+  margin-bottom: 2rem;
+  color: var(--text-dark);
+  font-weight: 500;
+}
 .cta-button {
   display: inline-block;
   margin: 1.5rem 0 2.5rem 0;
