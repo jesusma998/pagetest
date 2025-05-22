@@ -69,11 +69,11 @@ body {
   color: var(--text-dark);
   font-weight: 500;
 }
-
 .hero {
   text-align: center;
   padding: 4rem 2rem 2rem 2rem;
 }
+
 .hero h4 {
   font-size: 3rem;
   margin-bottom: 0.4rem;
