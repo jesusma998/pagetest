@@ -38,8 +38,8 @@ body {
 }
 
 .social-links li img {
-  width: 28px;
-  height: 28px;
+  width: 29px;
+  height: 29px;
   filter: brightness(0) invert(1);
   transition: filter 0.2s;
 }
@@ -91,7 +91,7 @@ body {
 }
 
 .media-gallery img, .media-gallery video {
-  width: 220px;
+  width: 260px;
   height: 220px;
   object-fit: cover;
   border-radius: 16px;
