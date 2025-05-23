@@ -116,7 +116,7 @@ body {
 }
 
 .media-gallery img, .media-gallery video {
-  width: 260px;
+  width: 300px;
   height: 220px;
   object-fit: cover;
   border-radius: 16px;
